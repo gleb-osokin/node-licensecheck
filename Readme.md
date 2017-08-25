@@ -6,7 +6,7 @@ A quick way to see the licenses of modules you depend on, recursively.
 There are a few other tools that do this too, but this one aims to be particularly robust to minimize manual work.
 It checks multiple palaces for licenses (package.json, license files, and READMEs), and then flexibly matches
 the license strings and normalizes the results so they are standardized licenses whenever possible, to ease
-legal review.
+legal review. 
 
 
 Installation
