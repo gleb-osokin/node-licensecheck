@@ -9,7 +9,7 @@ the license strings and normalizes the results so they are standardized licenses
 legal review. 
 
 
-Installation
+Installation  
 ------------
 
 Run `npm -g install licensecheck`.
